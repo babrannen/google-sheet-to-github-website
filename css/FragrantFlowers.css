@@ -1,0 +1,68 @@
+body {
+    background-color: #e9f9e7;
+}
+
+input[name="Search"]{
+    margin-top: 20px;
+    width: 25%;
+    font-size: 18px;
+    }
+    
+.search {
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.search-button {
+    margin-left: 10px;
+}
+
+.head-image img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 60px;
+    border-style: ridge;
+    border-width: 20px;
+}
+
+.nav li{
+    padding-left: 30px;
+    list-style-type: none;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.nav {
+    margin: auto;
+    text-align: center;
+    background-color: #308d25;
+    height: 50px;
+    max-width: 100%;
+    
+}
+
+
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.flower-of-week-name {
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.flower-of-week p, h2 {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.flower {
+    margin-left: 200px;
+    margin-top: 50px;
+}
